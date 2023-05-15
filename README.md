@@ -1,4 +1,8 @@
 # N-GRAMS
+Implemented an n-gram algorithm (for 1,2 and 3-grams of Markov Model), and tested it on a part of Turkish Novel Corpus, which includes 5 novels.
+
+**What is N-Grams?**
+
 In the fields of computational linguistics and probability, an n-gram is a contiguous sequence of n items from a given sequence of text or speech.
 
 N-Grams is a word prediction algorithm using probabilistic methods to predict next item after observing N-1 items. Therefore, computing the probability of the next word is closely related to computing the probability of a sequence of items.
