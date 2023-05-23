@@ -1,3 +1,5 @@
+The completion date is 2020.
+
 Implemented an n-gram algorithm (for 1,2 and 3-grams of Markov Model), and tested it on a part of Turkish Novel Corpus, which includes 5 novels.
 
 ## What is N-Grams?
